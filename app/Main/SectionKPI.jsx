@@ -100,10 +100,3 @@ export const SectionKPI = () => {
         </section>
     );
 };
-
-
-
-
-
-
-
